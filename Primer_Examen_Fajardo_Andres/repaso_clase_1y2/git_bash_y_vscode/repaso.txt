@@ -1,0 +1,3 @@
+Git Bash es una emulación del terminal
+VS Code es un IDE o editor de código que se integra con Git Bash
+

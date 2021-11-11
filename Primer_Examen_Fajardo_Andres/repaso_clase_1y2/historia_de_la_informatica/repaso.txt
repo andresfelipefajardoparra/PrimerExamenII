@@ -1,0 +1,13 @@
+1122 a. C. en China se inventa el ábaco
+
+1624 Pascal inventa la primera calculadora mecánica 
+
+1801 Jacquard inventa las tarjetas perforadas para guardar información de patrones textiles
+
+1833 a 1842 Inspirado en los trabajos de Pascal y Jacquard, Babbage construye la primera computadora y Lovelace diseña el primer algoritmo
+
+1936 Turing desarrolla una computadora capaz de descifrar los mensajes alemanes
+
+1943 En USA se desarrolla la primera computadora llamada ENIAC
+
+1945 Von Neumann diseña la arquitectura de cómo debería ser armado un computador
